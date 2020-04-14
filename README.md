@@ -2,11 +2,19 @@
 
 # Requirements
 
-python 3.6
-
-records 0.5.3   
-
-torch 1.1.0   
+tqdm==4.23.4
+matplotlib==3.0.3
+tensorflow==1.9.0
+torch==0.4.0
+Babel==2.4.0
+numpy==1.16.4
+six==1.11.0
+corenlp==0.0.14
+records==0.5.3
+stanza==1.0.0
+tabulate==0.8.7
+torchvision==0.5.0
+ujson==2.0.3
 
 # Run
 
