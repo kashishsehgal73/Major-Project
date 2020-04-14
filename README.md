@@ -1,16 +1,20 @@
 # NL2SQL-BERT
 
-[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
-
-Content Enhanced BERT-based Text-to-SQL Generation https://arxiv.org/abs/1910.07179
-
 # Requirements
 
-python 3.6
-
-records 0.5.3   
-
-torch 1.1.0   
+tqdm==4.23.4
+matplotlib==3.0.3
+tensorflow==1.9.0
+torch==0.4.0
+Babel==2.4.0
+numpy==1.16.4
+six==1.11.0
+corenlp==0.0.14
+records==0.5.3
+stanza==1.0.0
+tabulate==0.8.7
+torchvision==0.5.0
+ujson==2.0.3
 
 # Run
 
